@@ -2,7 +2,9 @@
 >
 > — <cite>Louis XIV</cite>
 
-## Usage [![npm version](https://img.shields.io/npm/v/louis-xiv.svg?style=flat)](https://www.npmjs.com/package/louis-xiv)
+## Usage
+
+[![npm version](https://img.shields.io/npm/v/louis-xiv.svg?style=flat)](https://www.npmjs.com/package/louis-xiv)
 
 Install:
 
@@ -36,6 +38,10 @@ const App = () => (
 
 render(<App />, document.getElementById("root"));
 ```
+
+## Similar
+
+* https://github.com/reactions/component
 
 ## License
 

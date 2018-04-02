@@ -14,6 +14,7 @@ Use:
 
 ```js
 import React from "react";
+import { render } from "react-dom";
 import State from "louis-xiv";
 
 const App = () => (
@@ -32,6 +33,8 @@ const App = () => (
     )}
   </State>
 );
+
+render(<App />, document.getElementById("root"));
 ```
 
 ## License

@@ -1,10 +1,14 @@
 {
   "name": "louis-xiv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "React state as a component",
   "main": "index.js",
   "module": "es/index.js",
-  "files": ["es", "index.js", "umd"],
+  "files": [
+    "es",
+    "index.js",
+    "umd"
+  ],
   "scripts": {
     "build": "node build/build.js"
   },

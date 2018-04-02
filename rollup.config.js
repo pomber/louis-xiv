@@ -13,7 +13,7 @@ const config = {
       "react-dom": "ReactDOM"
     }
   },
-  external: ["react"],
+  external: ["react", "react-dom"],
   plugins: [
     babel({
       exclude: "node_modules/**"

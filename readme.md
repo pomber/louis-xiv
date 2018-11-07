@@ -2,7 +2,11 @@
 >
 > — <cite>Louis XIV</cite>
 
-# Deprecated
+---
+
+### 🛑 Deprecated 
+
+---
 
 ## Usage
 

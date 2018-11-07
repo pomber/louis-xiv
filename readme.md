@@ -2,6 +2,8 @@
 >
 > — <cite>Louis XIV</cite>
 
+# Deprecated
+
 ## Usage
 
 [![npm version](https://img.shields.io/npm/v/louis-xiv.svg?style=flat)](https://www.npmjs.com/package/louis-xiv)
